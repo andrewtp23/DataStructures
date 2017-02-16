@@ -1,4 +1,5 @@
 //Andrew Parker
+//A hashtable implementing linear probing
 #ifndef linear_hpp
 #define linear_hpp
 
