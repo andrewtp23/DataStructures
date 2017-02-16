@@ -1,4 +1,5 @@
 //Andrew Parker
+//A hashtable implementing chaining
 #ifndef chain_hpp
 #define chain_hpp
 
